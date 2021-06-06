@@ -1,0 +1,116 @@
+! 2021-05-08 https://blog.csdn.net
+blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-vip.toolbar-btn > [href]
+blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn
+blog.csdn.net##[href="https://studentclub.csdn.net/"]
+blog.csdn.net##.left-toolbox
+blog.csdn.net##ul[class="toolbar-menus csdn-toolbar-fl"]
+
+
+
+! 2021-05-09 https://stackoverflow.com
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-05-11 https://www.jianshu.com
+jianshu.com##._13lIbp
+jianshu.com##._1CSgtu
+jianshu.com##div[class="_1aCo37-mask"]
+jianshu.com##div[class="ant-affix"]
+jianshu.com##ul[class="_1iTR78"]
+jianshu.com##h3[class="QxT4hD"]
+
+
+
+! 2021-05-11 https://www.baidu.com
+www.baidu.com###content_right > table > tbody > tr > td
+www.baidu.com##.s-tab-b2b.s-tab-item
+www.baidu.com##.s-tab-news.s-tab-item
+baidu.com##div[id="s_wrap"]
+baidu.com##div[id="s-top-left"]
+baidu.com##div[id="bottom_space"]
+baidu.com##div[id="bottom_layer"]
+baidu.com##a[class="index-banner bubble-has-skin   square-banner-bgicon  "]
+pan.baidu.com##div[data-index="1"]
+pan.baidu.com##dd[class="vyQHNyb"]
+pan.baidu.com##div[id="web-right-view"]
+
+
+! 2021-05-11 https://www.go176.net
+www.go176.net##.widget_text.widget
+
+! 2021-05-14 https://www.tensorflow.org
+www.tensorflow.org##.devsite-snackbar-inner
+
+! 2021-05-14 https://twitter.com
+twitter.com##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-qo02w8.r-1m3jxhj.r-1awozwy.css-1dbjc4n
+
+! 2021-05-18 https://www.yunpangou.com
+||p.qlogo.cn/qqmail_head/PiajxSqBRaEKlsibEJsVtc8xwr8G8WoxoUAia2iaL18cjPw9sdIzq2UzSbUHCTKMCZHUmvekyNFPfV4/0$image
+yunpangou.com###down_nbox
+
+
+agefans.net###new_tip1
+
+! 2021-05-22 https://www.agefans.net
+||p0.pstatp.com/origin/ff1a0001f72b80a2ad90$image
+
+
+
+! 2021-05-22 https://www.bilibili.com
+bilibili.com##.login-tip
+bilibili.com##DIV[id="bili_live"]
+bilibili.com##DIV[class="extension"]
+bilibili.com##a[data-loc-id="42"]
+bilibili.com##DIV[class="first-screen b-wrap"]
+bilibili.com##DIV[class="international-footer"]
+bilibili.com##DIV[id="bili_guochuang"]
+bilibili.com##DIV[id="bili_manga"]
+bilibili.com##DIV[id="bili_music"]
+bilibili.com##DIV[id="bili_dance"]
+bilibili.com##DIV[id="bili_game"]
+bilibili.com##DIV[id="bili_knowledge"]
+bilibili.com##DIV[id="bili_cheese"]
+bilibili.com##DIV[id="bili_tech"]
+bilibili.com##DIV[id="bili_car"]
+bilibili.com##DIV[id="bili_life"]
+bilibili.com##DIV[id="bili_food"]
+bilibili.com##DIV[id="bili_animal"]
+bilibili.com##DIV[id="bili_kichiku"]
+bilibili.com##DIV[id="bili_fashion"]
+bilibili.com##DIV[id="bili_information"]
+bilibili.com##DIV[id="bili_ent"]
+bilibili.com##DIV[id="bili_read"]
+bilibili.com##DIV[id="bili_movie"]
+bilibili.com##DIV[id="bili_teleplay"]
+bilibili.com##DIV[id="bili_cinephile"]
+bilibili.com##DIV[id="bili_documentary"]
+bilibili.com##DIV[id="bili_report_spe_rec"]
+bilibili.com##li[class="nav-link-item"]
+bilibili.com##DIV[class="van-popover van-popper"]
+bilibili.com##DIV[id="primaryFriendshipLink"]
+bilibili.com##DIV[class="list-box"]
+bilibili.com##DIV[class="primary-menu-itnl"]
+bilibili.com##DIV[class="mini-vip van-popover__reference"]
+
+! 2021-05-26 https://www.youdao.com
+www.youdao.com###doc2
+www.youdao.com###nav
+www.youdao.com###footer
+
+! 2021-05-26 https://www.orzlee.com
+||www.orzlee.com/asset/images/tencent.jpg$image
+
+! 2021-05-28 https://www.harrietkrijgh.com
+www.harrietkrijgh.com##.avia-cookiemessage-bottom-left.avia-cookie-consent
+
+! 2021-05-30 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-05-31 https://mega.io
+mega.io##section.mega-dialog-container > .fm-dialog-overlay
+mega.io##.ps-theme-default.ps-container.big-pad.scrollable-block
+mega.io##.active.step1.content-block > .bottom-buttons
+mega.io##body > .fm-dialog-overlay
+mega.io##.top-bl.centered-textalign.light-blue.bottom-page
+
+
