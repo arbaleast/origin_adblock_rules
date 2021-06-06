@@ -113,4 +113,8 @@ mega.io##.active.step1.content-block > .bottom-buttons
 mega.io##body > .fm-dialog-overlay
 mega.io##.top-bl.centered-textalign.light-blue.bottom-page
 
+! https://zhihu.com
+zhihu.com##div[class="Question-sideColumn Question-sideColumn--sticky"]
+zhihu.com##div[class="AuthorInfo-detail"]
+zhihu.com##ul[class="Tabs AppHeader-Tabs css-g0ay3v"]
 
