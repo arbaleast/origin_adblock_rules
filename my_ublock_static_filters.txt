@@ -91,6 +91,9 @@ bilibili.com##DIV[id="primaryFriendshipLink"]
 bilibili.com##DIV[class="list-box"]
 bilibili.com##DIV[class="primary-menu-itnl"]
 bilibili.com##DIV[class="mini-vip van-popover__reference"]
+bilibili.com##DIV[class="b-logo b-wrap"]
+bilibili.com##a[class="banner-link"]
+bilibili.com##DIV[id="reco_list"]
 
 ! 2021-05-26 https://www.youdao.com
 www.youdao.com###doc2
