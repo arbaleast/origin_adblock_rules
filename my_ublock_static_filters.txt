@@ -94,6 +94,21 @@ bilibili.com##DIV[class="mini-vip van-popover__reference"]
 bilibili.com##DIV[class="b-logo b-wrap"]
 bilibili.com##a[class="banner-link"]
 bilibili.com##DIV[id="reco_list"]
+bilibili.com##DIV[class="layer"]
+bilibili.com##DIV[id="live_recommand_report"]
+bilibili.com##DIV[class="lazy-img"]
+https://i0.hdslb.com/bfs/sycp/creative_img/*
+https://i2.hdslb.com/bfs/live/new_room_cover/*
+https://i1.hdslb.com/bfs/live/user_cover/*
+https://i1.hdslb.com/bfs/archive/*
+https://i1.hdslb.com/bfs/manga-static/*
+https://i0.hdslb.com/bfs/archive/
+https://i2.hdslb.com/bfs/archive/*
+https://i0.hdslb.com/bfs/live/new_room_cover/*
+https://i0.hdslb.com/bfs/live/user_cover/*
+https://i0.hdslb.com/bfs/article/sky_horse/*
+
+
 
 ! 2021-05-26 https://www.youdao.com
 www.youdao.com###doc2
