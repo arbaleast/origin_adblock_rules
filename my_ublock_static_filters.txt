@@ -35,6 +35,15 @@ pan.baidu.com##dd[class="vyQHNyb"]
 pan.baidu.com##div[id="web-right-view"]
 
 
+! https://jingyan.baidu.com
+jingyan.baidu.com##div[id="task-panel-wrap"]
+jingyan.baidu.com##div[id="wgt-like"]
+jingyan.baidu.com##aside[id="aside"]
+jingyan.baidu.com##footer[id="wgt-footer"]
+jingyan.baidu.com##nav[class="wgt-common-nav"]
+jingyan.baidu.com##div[id="bread-wrap"]
+
+
 ! 2021-05-11 https://www.go176.net
 www.go176.net##.widget_text.widget
 
