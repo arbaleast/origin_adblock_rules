@@ -15,6 +15,7 @@ stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.s
 jianshu.com##._13lIbp
 jianshu.com##._1CSgtu
 jianshu.com##div[class="_1aCo37-mask"]
+jianshu.com##div[class="_1aCo37-wrap _1aCo37-wrap-middle"]
 jianshu.com##div[class="ant-affix"]
 jianshu.com##ul[class="_1iTR78"]
 jianshu.com##h3[class="QxT4hD"]
