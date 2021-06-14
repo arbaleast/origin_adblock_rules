@@ -18,6 +18,7 @@ blog.csdn.net##span[class="feed-Sign-span"]
 blog.csdn.net##div[class="btn_open_app_prompt_div"]
 blog.csdn.net##div[id="operate"]
 blog.csdn.net##a[class="flag"]
+class="weixin-shadowbox wap-shadowbox"
 
 ! 2020-12-02 https://pan.baidu.com
 pan.baidu.civ[id="carousel"]
