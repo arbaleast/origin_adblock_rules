@@ -59,7 +59,8 @@ jianshu.com##div[id="reLnks"]
 ! 2020-11-18 https://en.aptoide.cog.csdn.net##div[class="weixin-shadowbox wap-shadowbox"]
 blog.csdn.net##div[class="ios-shadowbox"]
 
-||staticsns.cdn.bcebos.cohuanlan.zhihu.com##button[class="OpenInAppButton  css-1svfsgz-OpenInAppButton"]
+||staticsns.cdn.bcebos.com
+zhuanlan.zhihu.com##button[class="OpenInAppButton  css-1svfsgz-OpenInAppButton"]
 
 ! 2021-01-24 https://m.sohu.com
 m.sohu.com##.feed-item-container
