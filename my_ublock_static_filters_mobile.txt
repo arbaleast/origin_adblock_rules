@@ -71,17 +71,17 @@ https://ss1.baidu.com
 https://ss2.baidu.com
 https://ss0.bdstatic.com
 https://search-operate.cdn.bcebos.com
-cn.bing.com###ftrm/amis/2020-9/1601050801613/wap%26%E5%BE%AE%E4%id="bottom"]
+
 baidu.com##div[placeholde]
 baidu.com##div[class="ec_ad_results"]
-baike.baidu.com##div[class="yi]
+baike.baidu.com##div[class="yi"]
 m.speedtest.cn##div[data-v-7efc6eb8=""]
 
 ! 2021-03-25 https://www.k8dm.com
-www.k8dm.com##.gourl1s1hQoASYbz7zxtXY2258class="mealbar-promo-renderer"]
+
 
 ! 2020-11-12 https://cn.bing.com
-cn.bing.com##tiao-title"]
+cn.bing.com##div[class="tiao-title"]
 baike.baidu.com##div[class="yitiao-content J-yitiao-content"]
 baidu.com##div[id="qtqy_container"]
 baidu.com##a[class="index-banner bubble-has-skin   square-banner-bgicon  "]
@@ -95,11 +95,11 @@ tieba.baidu.com##div[class="nav-bar-wrapper"]
 
 ! 2020-12-02 footer_tc_privacy_text
 regiscommended-notes"]
-jianshu.com##div[classs://www.zhihu.com
+
 zhuanlan.zhihu.com##div[class="Post-Author Post-Author-Mobile"]
 zhuanlan.zhihu.com##div[class=""]
 zhu.com##.reply-box__content
-m.sohu.com##.pagebox.comment-reply__bar.comment-replywitcher__header__tabs__item"]
+
 
 ! 2021-02-06 https://android-zone.ws
 android-zone.ws##.ipsJS_hide.ipsPad_half
