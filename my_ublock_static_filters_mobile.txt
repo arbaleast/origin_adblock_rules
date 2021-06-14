@@ -137,3 +137,8 @@ y.music.163.com##div[id="m-simi-song"]
 y.music.163.com##li[class=""]
 y.music.163.com##div[class="cmt_more_applink f-bd-top"]
 y.music.163.com##section[class="m-hotlist"]
+
+! other
+agefans.cc##footer[id="footer"]
+agefans.cc##div[id="new_tip1"]
+agefans.cc##div[class="app-dl-m"]
