@@ -1,0 +1,139 @@
+! 2020-11-10 https://m.youtube.com
+m.youtube.com##ytm-mealbar[E5%BE%AE%E4%BF%A1%26%E6%89%8B%E7%99%BE%E8%A7%92%E6%A0%87%20copy%203.png$image
+pan.baidu.com##.copy-link > .content
+
+! 2020-12-13 https://m.baidu.com
+baidu.com##div[class="blank-frame"]
+baidu.com##div[style="overflow: hidden;bahttps://n802.com
+474b.com##div[class="card bg-light"]
+z701.com##div[class="row no-gutters"]
+z701.com##div[class="card bg-light mb-3"]
+z701.com##div[]
+
+! 2020-12-17 https://register.ubisoft.com
+register.ubisoft.com###bili.com##div[class="open-app-btn home-float-openapp"]
+m.bilibili.com##div[class="open-app-btn m-nav-openapp"]
+m.bilibili.com##div[class="open-app-btn m-float-openapp"]
+m.bilibili.com##div[class="m-video2-openapp-im
+blog.csdn.net##span[class="feed-Sign-span"]
+blog.csdn.net##div[class="btn_open_app_prompt_div"]
+blog.csdn.net##div[id="operate"]
+blog.csdn.net##a[class="flag"]
+
+! 2020-12-02 https://pan.baidu.com
+pan.baidu.civ[id="carousel"]
+
+! 2021-01-09 https://pan.baidu.com
+pan.baidu.com##[src^="data:image/jpeg;base64,"]
+
+! 2021-01-16 http://tieba.baidu.com
+tieba.baidu.com##div[class="tb-backflow__content"]
+tieba.baidu.com##di__box
+m.sohu.com##.footer-navs-wrapper
+
+! 2021-01-24 https://www.bilibili.com
+m.bilig"]
+!m.bilibili.com##div[class="m-video-related"]
+m.bilibili.com##div[class="m-footer"]
+m.bilibili.com##a[class="v-sBF%A1%26%E6%89%8B%E7%99%BE%E8%A7%92%E6%A0%87%20copy%203.png$image
+pan.baidu.com##.close-active
+||staticsns.cdn.bcebos.com/amis/2020-9/1601050801613/wap%26%ckground: #fff;"]
+baidu.com##div[="comment-open-app-btn-wrap"]
+jianshu.com##footer[id="footer"]
+jianshu.com##button[class="call-app-btn"]
+jianshu.com##p[class="content"]
+jianshu.com##div[class="download-app-guidance"]
+
+
+
+! 2021-01-24 httpm
+en.aptoide.com##.iEAOyq.cookie-notice__CookieNoticeContainer-sc-186p755-2
+en.aptoide.com##.gWiXdY.cookie-notice__CookieNoticeBackdrop-sc-186p755-1
+
+! 2020-11-21 https://blog.csdn.net
+bloter.ubisoft.com###footer_tc_privacy
+
+! 2020-12-25 https://www.jianshu.com
+jianshu.com##div[class="header-wrap"]
+jianshu.com##div[aria-label="wph-ad"]
+jianshu.com##div[id="reLnks
+
+! 2020-11-18 https://en.aptoide.cog.csdn.net##div[class="weixin-shadowbox wap-shadowbox"]
+blog.csdn.net##div[class="ios-shadowbox"]om##[src^="data:image/png;base64,"]
+||staticsns.cdn.bcebos.cohuanlan.zhihu.com##button[class="OpenInAppButton  css-1svfsgz-OpenInAppButton"]
+
+! 2021-01-24 https://m.sohu.com
+m.sohu.com##.feed-item-container
+m.sohu.com##.art-rec-news
+m.sohu.com##.cbd-plate-head
+m.sov[id="userinfo-wraps"]
+baidu.com##div[id="login-wraps"]
+https://ss0.baidu.com
+https://ss1.baidu.com
+https://ss2.baidu.com
+https://ss0.bdstatic.com
+https://search-operate.cdn.bcebos.com
+h#TopApp
+cn.bing.com###ftrm/amis/2020-9/1601050801613/wap%26%E5%BE%AE%E4%id="bottom"]
+baidu.com##div[placeholde]
+baidu.com##div[class="ec_ad_results"]
+baike.baidu.com##div[class="yi]
+m.speedtest.cn##div[data-v-7efc6eb8=""]
+
+! 2021-03-25 https://www.k8dm.com
+www.k8dm.com##.gourl1s1hQoASYbz7zxtXY2258class="mealbar-promo-renderer"]
+
+! 2020-11-12 https://cn.bing.com
+cn.bing.com##tiao-title"]
+baike.baidu.com##div[class="yitiao-content J-yitiao-content"]
+baidu.com##div[id="qtqy_container"]
+baidu.com##a[class="index-banner bubble-has-skin   square-banner-bgicon  "]
+baidu.com##dittps://sm.bdimg.com
+
+
+! 2020-12-21 https://wk.baidu.com
+wk.baidu.com##div[class="guide-to-univer-app-root"]
+wk.baidu.com##dv[class="tb-backflow"]
+tieba.baidu.com##div[class="nav-bar-wrapper"]
+
+! 2020-12-02 footer_tc_privacy_text
+regiscommended-notes"]
+jianshu.com##div[classs://www.zhihu.com
+zhuanlan.zhihu.com##div[class="Post-Author Post-Author-Mobile"]
+zhuanlan.zhihu.com##div[class=""]
+zhu.com##.reply-box__content
+m.sohu.com##.pagebox.comment-reply__bar.comment-replywitcher__header__tabs__item"]
+
+! 2021-02-06 https://android-zone.ws
+android-zone.ws##.ipsJS_hide.ipsPad_half
+
+! 2021-02-12 https://m.speedtest.cn
+m.speedtest.cn##ul[class="footer"]
+m.speedtest.cn##div[class="discount_wrap"]
+m.speedtest.cn##div[class="right"
+
+! 2021-03-30 http://m.imomoe.ai
+m.imomoe.la##div[class="am-slider am-slider-c2 am-no-layout"]
+m.imomoe.la##iframe[src="https://lke.liuchengming.com/tj.html?type=cnzz&id=1279465983"]
+m.imomoe.la##p[style="flex:1; position: relative; z-index:2147483647!important;margin:0;"]
+https://ekg.7656c4.com/theway/By/*
+https://lke.liuchengming.com/*
+https://l.reendian.cn/*
+
+! 2021-05-27 http://m.yhdm.so
+m.yhdm.so##div[class="listtit"]
+m.yhdm.so##nqsx[id]
+m.yhdm.so##li[class="item"]
+https://7aa.sdhghbkj.com/*
+https://p1.pstatp.com/*
+https://www.xxmh530.com/*
+
+
+
+
+y.music.163.com##div[class="m-song-friend"]
+y.music.163.com##div[class="u-ft group3"]
+y.music.163.com##div[id="m-simi-song"]
+y.music.163.com##li[class=""]
+y.music.163.com##div[class="cmt_more_applink f-bd-top"]
+y.music.163.com##section[class="m-hotlist"]
