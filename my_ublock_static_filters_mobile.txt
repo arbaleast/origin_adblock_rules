@@ -67,6 +67,9 @@ m.sohu.com##.feed-item-container
 m.sohu.com##.art-rec-news
 m.sohu.com##.cbd-plate-head
 m.sov[id="userinfo-wraps"]
+
+
+! https://baidu.com
 baidu.com##div[id="login-wraps"]
 https://ss0.baidu.com
 https://ss1.baidu.com
@@ -77,6 +80,30 @@ https://search-operate.cdn.bcebos.com
 baidu.com##div[placeholde]
 baidu.com##div[class="ec_ad_results"]
 baike.baidu.com##div[class="yi"]
+
+wk.baidu.com##div[class="reader-pop-manager-view-containter"]
+wk.baidu.com##div[data-v-7a3eecc8=""]
+wk.baidu.com##div[class="video-rec-wrap"]
+wk.baidu.com##div[id="baiduAppStyle"]
+wk.baidu.com##div[class="shops-hot"]
+wk.baidu.com##div[class="card card-below-reader"]
+wk.baidu.com##div[class="b-suiwen-root"]
+wk.baidu.com##div[class="core-card"]
+wk.baidu.com##div[class="fold-pager with-margin"]
+wk.baidu.com##div[class="card-wrap card-vip"]
+wk.baidu.com##div[]
+
+
+
+
+
+
+
+
+
+
+
+
 m.speedtest.cn##div[data-v-7efc6eb8=""]
 
 ! 2021-03-25 https://www.k8dm.com
