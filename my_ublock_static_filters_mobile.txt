@@ -92,9 +92,9 @@ wk.baidu.com##div[class="core-card"]
 wk.baidu.com##div[class="fold-pager with-margin"]
 wk.baidu.com##div[class="card-wrap card-vip"]
 wk.baidu.com##div[]
-
-
-
+https://edu-wenku.bdimg.com/v1/*
+https://wk.baidu.com/view/proxy/user/interface/getuserwenkucoin/*
+https://wk.baidu.com/view/newApi/*
 
 
 
