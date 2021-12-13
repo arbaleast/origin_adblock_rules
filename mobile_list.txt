@@ -1,0 +1,8 @@
+############################### Zhihu ####################################
+zhuanlan.zhihu.com##div[class="Post-Sub"]                   #屏蔽推荐阅读 app打开
+
+
+
+############################### 简书 ######################################
+jianshu.com##div[class="download-app-guidance"]             #拦截 下载app弹窗
+jianshu.com##div[class="header-wrap"]
