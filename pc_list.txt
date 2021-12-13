@@ -237,3 +237,270 @@ myqqjd.com##.active.wp-rjnl-xzotb-blackout
 baidu.kinh.cc##.swal2-show.swal2-modal.swal2-popup
 baidu.kinh.cc##.swal2-backdrop-show.swal2-center.swal2-container
 
+######################### Bilibili #####################################
+! 2021-05-22 https://www.bilibili.com
+bilibili.com##.login-tip
+bilibili.com##DIV[id="bili_live"]
+bilibili.com##DIV[class="extension"]
+bilibili.com##a[data-loc-id="42"]
+bilibili.com##DIV[class="first-screen b-wrap"]
+bilibili.com##DIV[class="international-footer"]
+bilibili.com##DIV[id="bili_guochuang"]
+bilibili.com##DIV[id="bili_manga"]
+bilibili.com##DIV[id="bili_music"]
+bilibili.com##DIV[id="bili_dance"]
+bilibili.com##DIV[id="bili_game"]
+bilibili.com##DIV[id="bili_knowledge"]
+bilibili.com##DIV[id="bili_cheese"]
+bilibili.com##DIV[id="bili_tech"]
+bilibili.com##DIV[id="bili_car"]
+bilibili.com##DIV[id="bili_life"]
+bilibili.com##DIV[id="bili_food"]
+bilibili.com##DIV[id="bili_animal"]
+bilibili.com##DIV[id="bili_kichiku"]
+bilibili.com##DIV[id="bili_fashion"]
+bilibili.com##DIV[id="bili_information"]
+bilibili.com##DIV[id="bili_ent"]
+bilibili.com##DIV[id="bili_read"]
+bilibili.com##DIV[id="bili_movie"]
+bilibili.com##DIV[id="bili_teleplay"]
+bilibili.com##DIV[id="bili_cinephile"]
+bilibili.com##DIV[id="bili_documentary"]
+bilibili.com##DIV[id="bili_report_spe_rec"]
+bilibili.com##li[class="nav-link-item"]
+bilibili.com##DIV[class="van-popover van-popper"]
+bilibili.com##DIV[id="primaryFriendshipLink"]
+bilibili.com##DIV[class="list-box"]
+bilibili.com##DIV[class="primary-menu-itnl"]
+bilibili.com##DIV[class="mini-vip van-popover__reference"]
+bilibili.com##DIV[id="bili_report_douga"]
+bilibili.com##DIV[class="b-logo b-wrap"]
+bilibili.com##a[class="banner-link"]
+bilibili.com##DIV[id="reco_list"]
+bilibili.com##DIV[class="layer"]
+bilibili.com##DIV[id="live_recommand_report"]
+bilibili.com##DIV[class="lazy-img"]
+bilibili.com##DIV[id="activity_vote"]
+bilibili.com##DIV[class="bili-banner"]
+bilibili.com##DIV[class="twp-mask twp-float"]
+https://i0.hdslb.com/bfs/sycp/creative_img/*
+https://i2.hdslb.com/bfs/live/new_room_cover/*
+https://i1.hdslb.com/bfs/live/user_cover/*
+!https://i1.hdslb.com/bfs/archive/*
+https://i1.hdslb.com/bfs/manga-static/*
+!https://i0.hdslb.com/bfs/archive/
+!https://i2.hdslb.com/bfs/archive/*
+https://i0.hdslb.com/bfs/live/new_room_cover/*
+https://i0.hdslb.com/bfs/live/user_cover/*
+https://i0.hdslb.com/bfs/article/sky_horse/*
+
+
+
+############################### Baidu ###################################
+! 2021-05-11 https://www.baidu.com
+www.baidu.com###content_right > table > tbody > tr > td
+www.baidu.com##.s-tab-b2b.s-tab-item
+www.baidu.com##.s-tab-news.s-tab-item
+baidu.com##div[id="s_wrap"]
+baidu.com##div[id="s-top-left"]
+baidu.com##div[id="bottom_space"]
+baidu.com##div[id="bottom_layer"]
+baidu.com##a[class="index-banner bubble-has-skin   square-banner-bgicon  "]
+! 2021-11-11 https://www.baidu.com
+www.baidu.com###s_menus_wrapper
+www.baidu.com##.s-opacity-blank8.s-ctner-menus
+www.baidu.com##.s-down.c-font-medium.s-menu-gurd
+pan.baidu.com##div[data-index="1"]
+pan.baidu.com##dd[class="vyQHNyb"]
+pan.baidu.com##div[id="web-right-view"]
+pan.baidu.com##div[class="tgmdM8nK"]
+pan.baidu.com##div[class="module-device-mask"]
+pan.baidu.com##div[id="dialog1"]
+pan.baidu.com##dd[class="gOIbzPb"]
+pan.baidu.com##img[class="btn-img-tips"]
+
+wenku.baidu.com##div[class="vip-card-wrap"]
+wenku.baidu.com##div[class="doc-btns-wrap"]
+wenku.baidu.com##div[class="vip-activity-wrap-new"]
+wenku.baidu.com##div[class="sidebar-wrapper"]
+wenku.baidu.com##div[class="vip-pay-pop-v2-wrap"]
+wenku.baidu.com##div[class="small-btn-wrap"]
+wenku.baidu.com##div[class="lazy-load"]
+wenku.baidu.com##div[class="no-full-screen"]
+wenku.baidu.com##div[class="search-tab-wrap"]
+wenku.baidu.com##div[class="right-channel-wrap"]
+wenku.baidu.com##div[class="zhenxuan-guide"]
+wenku.baidu.com##div[class="zhenxuan-guide zhenxuan-fixed"]
+wenku.baidu.com##div[class="full-screen tool-btn pure-tool-btn test-btn"]
+
+! https://jingyan.baidu.com
+jingyan.baidu.com##div[id="task-panel-wrap"]
+jingyan.baidu.com##div[id="wgt-like"]
+jingyan.baidu.com##aside[id="aside"]
+jingyan.baidu.com##footer[id="wgt-footer"]
+jingyan.baidu.com##nav[class="wgt-common-nav"]
+jingyan.baidu.com##div[id="bread-wrap"]
+jingyan.baidu.com##div[class="_1aCo37-wrap _1aCo37-wrap-middle"]
+
+zhidao.baidu.com##button[class="task-list-button"]
+zhidao.baidu.com##div[class="jump-top-box"]
+zhidao.baidu.com##div[class="nav-menu-layout"]
+zhidao.baidu.com##div[class="wgt-footer-new"]
+zhidao.baidu.com##div[class="cms-slide cms-slide-lazy mod-noshadow"]
+zhidao.baidu.com##div[class="question-number-text-chain"]
+
+
+
+########################## CSDN #####################################
+! 2021-05-08 https://blog.csdn.net
+blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-vip.toolbar-btn > [href]
+blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn
+blog.csdn.net##[href="https://studentclub.csdn.net/"]
+blog.csdn.net##.left-toolbox
+blog.csdn.net##ul[class="toolbar-menus csdn-toolbar-fl"]
+
+
+
+
+! 2021-05-09 https://stackoverflow.com
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+
+
+############################## Jianshu #################################
+! 2021-05-11 https://www.jianshu.com
+jianshu.com##._13lIbp
+jianshu.com##._1CSgtu
+jianshu.com##div[class="_1aCo37-mask"]
+jianshu.com##div[class="_1aCo37-wrap _1aCo37-wrap-middle"]
+jianshu.com##div[class="ant-affix"]
+jianshu.com##ul[class="_1iTR78"]
+jianshu.com##h3[class="QxT4hD"]
+
+
+
+############################### Zhihu ##################################
+! https://zhihu.com
+zhihu.com##div[class="Question-sideColumn Question-sideColumn--sticky"]
+zhihu.com##div[class="AuthorInfo-detail"]
+zhihu.com##ul[class="Tabs AppHeader-Tabs css-g0ay3v"]
+
+
+################################ Other ###############################
+! 2021-05-11 https://www.go176.net
+www.go176.net##.widget_text.widget
+
+! 2021-05-14 https://twitter.com
+twitter.com##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-qo02w8.r-1m3jxhj.r-1awozwy.css-1dbjc4n
+
+! 2021-05-26 https://www.youdao.com
+www.youdao.com###doc2
+www.youdao.com###nav
+www.youdao.com###footer
+
+! 2021-05-26 https://www.orzlee.com
+||www.orzlee.com/asset/images/tencent.jpg$image
+
+! 2021-05-28 https://www.harrietkrijgh.com
+www.harrietkrijgh.com##.avia-cookiemessage-bottom-left.avia-cookie-consent
+
+! 2021-05-30 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-05-31 https://mega.io
+mega.io##section.mega-dialog-container > .fm-dialog-overlay
+mega.io##.ps-theme-default.ps-container.big-pad.scrollable-block
+mega.io##.active.step1.content-block > .bottom-buttons
+mega.io##body > .fm-dialog-overlay
+mega.io##.top-bl.centered-textalign.light-blue.bottom-page
+
+jzkt.fwxgx.com##div[class="pv-as-layout"]
+zjy.glodon.com##div[id="privacy-out__wrapper-0"]
+zjy.glodon.com##div[class="pv-cover"]
+zjy.glodon.com##div[class="pv-as-pause"]
+dalipan.com##div[id="statement"]
+dalipan.com##footer[class="footer"]
+dalipan.com##img[class="qrcode"]
+dalipan.com##p[class="tip"]
+dalipan.com##h3[class="title"]
+dalipan.com##div[id="hot"]
+dalipan.com##div[class="notice"]
+dalipan.com##div[class="feedback-wrap"]
+dalipan.com##div[class="logo-wrap"]
+jb51.net##div[class="main-right"]
+jb51.net##dd[id="sm"]
+jb51.net##div[id="topbar"]
+jb51.net##dd[id="xgw1"]
+jb51.net##div[class="ptjc"]
+jb51.net##div[id="samesoft"]
+jb51.net##div[class="tonglan"]
+https://files.jb51.net/skin/*
+jianbiaoku.com##div[class="content"]
+javazhiyin.com##div[class="layui-layer-shade"]
+javazhiyin.com##div[id="layui-layer1"]
+
+! 2021-07-08 https://wiki.mbalib.com
+wiki.mbalib.com###bg
+wiki.mbalib.com###copy_pop_wiki
+
+! 2021-10-23 https://post.smzdm.com
+post.smzdm.com###feed-side
+post.smzdm.com##.z-clearfix.nav-inner
+
+
+! 2021-11-15 https://myqqjd.com
+myqqjd.com##.active.ozikhd-dcfrzplt-modal
+myqqjd.com##.ozikhd-dcfrzplt-wrapper
+myqqjd.com##.active.ozikhd-dcfrzplt-blackout
+myqqjd.com##.site.hfeed
+
+znds.com##div[class="a_mu"]
+znds.com##div[class="bm"]
+znds.com##div[class="a_pr"]
+znds.com##div[class="ft_wp"]
+
+cowtransfer.com##div[class="cover-image-frame"]
+
+! 2021-11-20 https://www.mvcat.com
+www.mvcat.com##.wxfollow
+
+! 2021-11-20 https://pixivic.com
+pixivic.com##.right.el-notification
+
+! 2021-11-20 https://myqqjd.com
+myqqjd.com##.wp-rjnl-xzotb-wrapper
+myqqjd.com##.active.wp-rjnl-xzotb-blackout
+
+! 2021-11-21 https://baidu.kinh.cc
+baidu.kinh.cc##.swal2-show.swal2-modal.swal2-popup
+baidu.kinh.cc##.swal2-backdrop-show.swal2-center.swal2-container
+
+$frame,domain=91mjw.com
+
+
+
+
+||bilibili.com##div[id="bili_guochuang"]
+||bilibili.com##div[id="bili_manga"]
+||bilibili.com##div[id="bili_music"]
+||bilibili.com##div[id="bili_dance"]
+||bilibili.com##div[id="bili_game"]
+||bilibili.com##div[id="bili_knowledge"]
+||bilibili.com##div[id="bili_cheese"]
+||bilibili.com##div[id="bili_tech"]
+||bilibili.com##div[id="bili_car"]
+||bilibili.com##div[id="bili_life"]
+||bilibili.com##div[id="bili_sports"]
+||bilibili.com##div[id="bili_food"]
+||bilibili.com##div[id="bili_animal"]
+||bilibili.com##div[id="bili_kichiku"]
+||bilibili.com##div[id="bili_fashion"]
+||bilibili.com##div[id="bili_information"]
+||bilibili.com##div[id="bili_ent"]
+||bilibili.com##div[id="bili_read"]
+||bilibili.com##div[id="bili_movie"]
+||bilibili.com##div[id="bili_teleplay"]
+||bilibili.com##div[id="bili_cinephile"]
+||bilibili.com##div[id="bili_documentary"]
+||bilibili.com##div[id="bili_report_spe_rec"]
